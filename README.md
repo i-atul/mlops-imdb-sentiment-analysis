@@ -1,1 +1,1 @@
-# mlops-imdb-sentiment-analysis
+# mlops-IMDB-sentiment-analysis
