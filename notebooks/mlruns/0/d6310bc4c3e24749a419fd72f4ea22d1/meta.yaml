@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/Desktop/My%20File/imdb/mlops-imdb-sentiment-analysis/notebooks/mlruns/0/d6310bc4c3e24749a419fd72f4ea22d1/artifacts
+end_time: 1741786508537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6310bc4c3e24749a419fd72f4ea22d1
+run_name: skillful-zebra-36
+run_uuid: d6310bc4c3e24749a419fd72f4ea22d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741786508415
+status: 3
+tags: []
+user_id: DELL

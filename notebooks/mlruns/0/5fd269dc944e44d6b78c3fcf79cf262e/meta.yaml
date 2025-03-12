@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/Desktop/My%20File/imdb/mlops-imdb-sentiment-analysis/notebooks/mlruns/0/5fd269dc944e44d6b78c3fcf79cf262e/artifacts
+end_time: 1741785807012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fd269dc944e44d6b78c3fcf79cf262e
+run_name: respected-shad-489
+run_uuid: 5fd269dc944e44d6b78c3fcf79cf262e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741785806923
+status: 3
+tags: []
+user_id: DELL

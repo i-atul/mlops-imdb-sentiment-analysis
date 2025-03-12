@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/Desktop/My%20File/imdb/mlops-imdb-sentiment-analysis/notebooks/mlruns/0/e94682f0a0af493dadd0f2e531b2dd30/artifacts
+end_time: 1741785803196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e94682f0a0af493dadd0f2e531b2dd30
+run_name: thoughtful-asp-821
+run_uuid: e94682f0a0af493dadd0f2e531b2dd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741785803113
+status: 3
+tags: []
+user_id: DELL
